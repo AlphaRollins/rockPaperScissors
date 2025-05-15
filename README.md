@@ -30,5 +30,6 @@ Play against the computer and prove who's the boss! 🔥
 ---
 
 📃 License
+
 This project is licensed under the MIT License.
 Feel free to use, modify, and share it.
