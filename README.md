@@ -24,6 +24,7 @@ Play against the computer and prove who's the boss! 🔥
 ---
 
 ✌️ Author
+
 💻 Made by: AlphaRollins
 
 ---
